@@ -12,6 +12,7 @@ network security, incident investigation, and automation.
 ## Learning Platforms
 
 - Codecademy
+- TryHackMe — Cyber Security 101
 
 ## Learning Journal
 
