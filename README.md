@@ -14,6 +14,8 @@ network security, incident investigation, and automation.
 - Codecademy
 - TryHackMe — Cyber Security 101
 
+See:[TryHackMe Practice Sessions](https://tryhackme.com/p/sabrokwa101)
+
 ## Learning Journal
 
 I maintain a learning journal documenting:
